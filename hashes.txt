@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Bydala3
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Bydala3** (sokootak-bydala3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:28:24.186999 | `v1` | `29039695d13289828e39d896d61211b97ead98b6816ddd9fe7265dc69f14b2b6` | `1c9cefa2fdf1e88fd1563a95cb740bd9ae781e075b837c0f7427308ef4459f19` | `2026-05-08_sokootak-bydala3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
